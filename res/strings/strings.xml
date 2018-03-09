@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Birthday Reminder</string>
+
+    <string name = "birthday_title_hint">Enter the name</string>
+    <string name = "birthday_date_hint">Enter the birthday</string>
+    <string name = "date_picker_title">Upcoming Birhday</string>
+    <string name = "new_birthday">New Birthday</string>
+    <string name = "show_subtitle">Show Subtitle</string>
+    <string name = "hide_subtitle" >Hide Subtitle</string>
+    <string name = "subtitle_format" >%1$d crimes</string>
+    <string name = "delete">Delete</string>
+    <string name = "zero_birthdays">You have not added any birthdays yet. Click the + to add one</string>
+    <string name = "notification_ticker">Birthday Reminder!</string>
+    <string name = "birthday_remind_text">It is %s\'s birthday!</string>
+</resources>
